@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  pani-kadrnozkova:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-04-23T15:50:08.756421422+02:00
+    description: A Helm chart for Kubernetes
+    digest: d306c1dc891ab5ba073ba3c17f87fb6325159de5769fc9f23a9789e37384afe5
+    name: pani-kadrnozkova
+    urls:
+    - pani-kadrnozkova-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-04-23T15:50:08.754649177+02:00
