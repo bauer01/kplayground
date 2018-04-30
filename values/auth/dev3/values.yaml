@@ -1,0 +1,11 @@
+APP_DEBUG: false
+APP_ENV: prod
+APP_SECRET: secret
+IDENTITY_SERVICE_URL: http://identity
+STORAGE_URL: http://auth-storage
+SECURITY_ENCRYPTION_KEY: key
+SECURITY_ACCESS_TOKEN_TTL: PT1H
+SECURITY_REFRESH_TOKEN_TTL: P1M
+SECURITY_AUTH_CODE_TTL: PT10M
+imagePullSecrets: zootsecret
+imageRepository: zootas/auth-service
